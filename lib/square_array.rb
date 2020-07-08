@@ -2,7 +2,6 @@ def square_array(array)
   count = 0
   new_num_arr = []
   while count < array.length do
-<<<<<<< HEAD
     num = array[count]
     square = num ** 2    
     new_num_arr.push(square)
