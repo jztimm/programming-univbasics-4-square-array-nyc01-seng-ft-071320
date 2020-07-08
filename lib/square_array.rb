@@ -6,7 +6,6 @@ def square_array(array)
     square = num ** 2    
     new_num_arr.push(square)
     count += 1
-    new_num_arr.push(count ** 2)
   end
   puts new_num_arr
   new_num_arr
